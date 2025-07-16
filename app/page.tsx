@@ -754,7 +754,7 @@ export default function LaunchLayerWebsite() {
                     "Source Files Included",
                     "2 Day Delivery",
                     "SEO Optimized",
-                    "Free Revisions",
+                    "Personalized Output",
                   ].map((feature, idx) => (
                     <div
                       key={idx}
@@ -798,7 +798,7 @@ export default function LaunchLayerWebsite() {
                 Email Us
               </h4>
               <span className="text-lg text-gray-400 group-hover:text-gray-300 transition-colors duration-300">
-                support@launchlayer.com
+                support@launchlayer.org
               </span>
             </div>
 
